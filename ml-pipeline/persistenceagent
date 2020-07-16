@@ -1,0 +1,1 @@
+from gcr.io/ml-pipeline/persistenceagent:0.2.5
