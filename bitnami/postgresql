@@ -1,0 +1,1 @@
+from bitnami/postgresql:11.6.0-debian-10-r5
