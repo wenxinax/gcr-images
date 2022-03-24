@@ -1,0 +1,1 @@
+from tensorflow/serving:latest-gpu
